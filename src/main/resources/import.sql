@@ -1,0 +1,2 @@
+INSERT INTO CLIENTES (id, nombre, apellido, tipo_documento, documento, telefono) values (1, 'Antonio', 'Galeano', 'CC', '1.121.974', '3010000012');
+INSERT INTO CLIENTES (id, nombre, apellido, tipo_documento, documento, telefono) values (2, 'Jhonatan', 'Escobar', 'CC', '1.121.900', '3019999915');
